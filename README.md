@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/harithanagubady/harithanagubady/blob/main/github-header-image.png?raw=true)
 
-<h3 align="center">A versatile IT Professional with 4.8 years experience</h3>
+<h3 align="center">A versatile IT Professional with 4.9 years experience</h3>
 <img align="right" width="400" height="400" alt="Coding" src="https://raw.githubusercontent.com/harithanagubady/harithanagubady/main/ezgif.com-crop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harithanagubady&label=Profile%20views&color=0e75b6&style=flat" alt="harithanagubady" /> </p>
