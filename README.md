@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **System Design** - [LLD](https://github.com/harithanagubady/Low-Level-Design/) & [HLD](https://github.com/harithanagubady/High-Level-Design) 
 
-- 📫 How to reach me **nagubadyharitha98118@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/haritha-nagubady/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
