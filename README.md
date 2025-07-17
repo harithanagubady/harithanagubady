@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Data-Structures-and-Algorithms](https://github.com/harithanagubady/Data-Structures-and-Algorithms)
 
-- 🌱 I’m currently learning **System Design** - [LLD](https://github.com/harithanagubady/Low-Level-Design/) & [HLD](https://github.com/harithanagubady/High-Level-Design) 
+- 🌱 Expertise in **System Design** - [LLD](https://github.com/harithanagubady/Low-Level-Design/) & [HLD](https://github.com/harithanagubady/High-Level-Design) 
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/haritha-nagubady/)
 
